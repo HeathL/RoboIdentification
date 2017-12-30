@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\l\desktop\shapedetection\shapedetection\main.cpp(50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\l\desktop\shapedetection\shapedetection\main.cpp(255): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\l\desktop\shapedetection\shapedetection\main.cpp(290): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\l\desktop\shapedetection\shapedetection\main.cpp(406): warning C4552: '<<': operator has no effect; expected operator with side-effect
+  ShapeDetection.vcxproj -> C:\Users\L\Desktop\ShapeDetection\x64\Debug\ShapeDetection.exe
+  ShapeDetection.vcxproj -> C:\Users\L\Desktop\ShapeDetection\x64\Debug\ShapeDetection.pdb (Partial PDB)
